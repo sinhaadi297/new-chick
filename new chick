@@ -1,0 +1,26 @@
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>emojis</title>
+    <link rel="stylesheet" href="css/stylec.css">
+  </head>
+  <body>
+    <h1 id="heading">
+      I LOVE EMOJI
+    </h1>
+    <p class="new">
+      <em>chicken chicken chicken</em>
+    </p>
+    <p>
+      <em>  winner winner winner</em>
+    </p>
+    <p>
+        <em>chicken chicken chicken</em>
+    </p>
+    <img class="first circular" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/face-throwing-a-kiss_1f618.png" alt="kiss emo">&nbsp &nbsp
+<img class="second" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/face-with-stuck-out-tongue_1f61b.png" alt="tounge emo">&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp
+<img  src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/slightly-smiling-face_1f642.png" alt="smile">&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/pensive-face_1f614.png" alt="sad">
+  </body>
+</html>
